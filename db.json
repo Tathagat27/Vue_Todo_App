@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "todo": "Complete Assignment",
+      "completed": false,
+      "createdAt": "10/2/2024, 11:04:09 pm",
+      "id": 1
+    },
+    {
+      "todo": "Read about docker",
+      "completed": false,
+      "createdAt": "10/2/2024, 11:04:09 pm",
+      "id": 2
+    },
+    {
+      "todo": "Attend meeting",
+      "completed": false,
+      "createdAt": "10/2/2024, 11:07:12 pm",
+      "id": 3
+    },
+    {
+      "todo": "Interview preparation",
+      "completed": true,
+      "createdAt": "10/2/2024, 11:07:12 pm",
+      "id": 4
+    },
+    {
+      "todo": "Creating a Vue Application",
+      "completed": true,
+      "createdAt": "10/2/2024, 11:34:42 pm",
+      "id": 5
+    }
+  ]
+}
